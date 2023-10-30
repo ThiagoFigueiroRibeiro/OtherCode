@@ -4,7 +4,7 @@
 Se você quiser pingar uma máquina de ip = 3.0.0.2, basta você usar o comando acima no Windows: 
 
        ping 3.0.0.2
--**Pra que serve o comando "enable"?**
+- **Pra que serve o comando "enable"?**
   
   Resposta: Ele serve pra você entrar no modo previlegiado de um aparelho Cisco.
   No modo privilegiado você pode mudar as principais configurações do aparelho como interfaces permitidas e tivas, acesso SSH, configurações de segurança, ETC.
